@@ -33,6 +33,11 @@ Recommendations:
 
 It is not easy to find a good ELM copy,  that can configure the individual CAN addresses. Many of these Chinese offers are only specialized in, automatically connecting to the engine control unit, to read [OBD II parameters](https://en.wikipedia.org/wiki/OBD-II_PIDs).
 
+Some radio and navigation control units are connected to the OBD socket pins 13 and 12.
+To read these control units, OBD pin 13 must be redirected to interface pin 6 and OBD pin 12 to interface pin 14.
+![can2](https://github.com/user-attachments/assets/829e5ea3-cc16-425d-bdcf-91597730fc3c)
+
+
 ## Dependencies :
 * Python 2.7
 * PyQt 4.8
