@@ -35,9 +35,10 @@ It is not easy to find a good ELM copy,  that can configure the individual CAN a
 
 Some radio and navigation control units are connected to the OBD socket pins 13 and 12.
 To read these control units, OBD pin 13 must be redirected to interface pin 6 and OBD pin 12 to interface pin 14.
-![can2](https://github.com/user-attachments/assets/829e5ea3-cc16-425d-bdcf-91597730fc3c)
+![can2](https://github.com/user-attachments/assets/0221de35-2c1e-4ecd-8c2b-4ecb19508cfa)
 
-This type of [OBD splitter cable](https://www.google.com/search?q=obd+splitter+cable) is ideal for building a Can 2 adapter.
+
+This type of [OBD splitter cable](https://www.google.com/search?q=obd+splitter+cable) is ideal for building a Can 2 adapter. Unlock the contacts and simply swap them.
 
 ![split](https://github.com/user-attachments/assets/cda24a0a-6f05-43eb-9a83-0b51f030f52d)
 
