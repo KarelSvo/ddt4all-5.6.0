@@ -37,6 +37,10 @@ Some radio and navigation control units are connected to the OBD socket pins 13 
 To read these control units, OBD pin 13 must be redirected to interface pin 6 and OBD pin 12 to interface pin 14.
 ![can2](https://github.com/user-attachments/assets/829e5ea3-cc16-425d-bdcf-91597730fc3c)
 
+This type of [OBD splitter cable](www.google.com/search?q=obd+splitter+cable) is ideal for building a Can 2 adapter.
+![split](https://github.com/user-attachments/assets/cda24a0a-6f05-43eb-9a83-0b51f030f52d)
+
+
 
 ## Dependencies :
 * Python 2.7
