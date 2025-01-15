@@ -28,7 +28,7 @@ This tool is mainly aimed for CAN ISO_TP network study.
 ## Interface
 Recommendations:
 * OBDLink SX, MX, EX, LX
-* vGate vLinker FS USB and Bluetooth
+* vGate vLinker FS USB and FD Bluetooth
 * Attention, if you want to buy a Chinese ELM327 clone, read this information: [Difference between good and bad ELM327 interface](https://cvtz50.info/en/elm327/)
 
 It is not easy to find a good ELM copy,  that can configure the individual CAN addresses. Many of these Chinese offers are only specialized in, automatically connecting to the engine control unit, to read [OBD II parameters](https://en.wikipedia.org/wiki/OBD-II_PIDs).
