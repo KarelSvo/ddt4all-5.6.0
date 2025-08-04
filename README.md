@@ -53,7 +53,7 @@ This type of [OBD splitter cable](https://www.google.com/search?q=obd+splitter+c
 
 Get the fully packaged installer here :
 * [Release area](https://github.com/KarelSvo/ddt4all-5.6.0/releases/tag/5.6.0) 
-* [Alternative area](https://s2.dosya.tc/server31/of18y5/ddt4all.exe.html) 
+* [Alternative area](https://mega.nz/file/aA8lzZyS#URFOkmqZvbs3528GwRzNSqQ_ViLG6zgUV4hInUCucEs) 
 * [Older versions](https://www.drive2.ru/b/498093336985338243/) 
 
 ## Features :
